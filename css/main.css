@@ -1,0 +1,156 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background: #a7a09a;
+}
+
+#wrap {
+	width: 900px;
+	margin: 0 auto;
+	background: #fff;
+	overflow: hidden;
+}
+
+/*#main, #sidebar {
+	padding-bottom: 50000px;
+	margin-bottom: -49980px;
+}*/
+#nav {
+	display: inline;
+	/*background: purple;*/
+}
+
+#main {
+	float: right;
+	width: 540px;
+	padding: 30px;
+	/*background: #c99;*/
+}
+
+#sidebar {
+	float: left;
+	width: 240px;
+	background: #00004d;
+	padding: 30px;
+	color: #000;
+
+}
+
+#footer {
+	text-align: center;
+	clear: both;
+	background: #00004d;
+	font-size: 17px
+	color:white; 
+}
+
+#name, #statement, #experience, #education, #skills {
+	padding-top:10px;
+	padding-bottom: 10px; 
+}
+
+#picture {
+	margin-left: 50px;
+	margin-top: 50px;
+	padding: 0px;
+	
+	
+}
+
+/*#nav a {
+	padding: 0px 20px;
+	float: all;
+	width: 20%;
+	border: 1px solid black; 
+
+}*/
+
+.topnav {
+	background-color: #444;
+	overflow: hidden;
+	/*color:black;*/
+
+}
+
+.topnav a {
+	float: left;
+	color: black;*/
+	text-align: center;
+	text-decoration: none;
+	padding: 15px 25px;
+	font-size: 17px;
+	font-family: 'Raleway', sans-serif;
+}
+
+.topnav a:hover {
+	background: #00004d;
+	color: white;
+}
+
+
+.name {
+	/*width: 500px;*/
+	font-size: 40px;
+	font-family: 'Lexend Deca', sans-serif;
+	margin-bottom: 0px;
+	padding-bottom: 0px; 
+	
+
+}
+
+.occupation {
+	font-size: 20px;
+	font-family: ;
+	font-variant: small-caps;
+	margin-top: 0px;
+	padding-top: 0px;
+
+	margin-bottom: 20px;
+}
+
+.sub-heading {
+	font-variant: small-caps;
+	text-decoration: underline;
+	font-family: 'Lexend Deca', sans-serif;
+
+}
+
+.text-content {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+
+}
+
+.company {
+	font-family: 'Roboto', sans-serif;
+
+
+}
+
+.job-title {
+	font-weight: 700;
+
+}
+
+.date {
+	float: right;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold ;
+	font-size: 14px; 
+
+}
+
+.side-sub-heading {
+	color:white;
+
+}
+
+.side-text {
+	color:white;
+}
+
+.footer-text {
+	color:white;
+	font-size: 17px;
+}
